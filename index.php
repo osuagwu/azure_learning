@@ -2,7 +2,7 @@
 
 
 echo "<H1>PHP rocks</H1>";
-echo "<p>I know right</p>"
+echo "<p>I know right</p>";
 
 include 'footer.php';
 
